@@ -1,0 +1,5 @@
+[user]
+	name = Matt Willsher
+	email = matt@monki.org.uk
+[core]
+	excludesfile = /home/matt/.gitignore_global
