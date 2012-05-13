@@ -3,3 +3,10 @@
 	email = matt@monki.org.uk
 [core]
 	excludesfile = /home/matt/.gitignore_global
+[alias]
+  ci = commit
+  co = checkout
+  br = branch
+  me = merge
+  st = status
+  fe = fetch
